@@ -3,6 +3,10 @@
 	font-family: 'Roboto';
     color: #515151;
     background-color:#495057;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     
 }
 
@@ -123,6 +127,7 @@
     border: 0;
     border:1px solid #adb5b7;
     padding: .2rem;
+    width: 32%;
    
     
     color: #495057;
@@ -159,6 +164,7 @@
     border: 0;
     border:1px solid #adb5bd;
     padding: .2rem;
+    width: 40.5%;
    
     
     color: #495057;
@@ -200,7 +206,7 @@
     border:1px solid #adb5bd;
     padding: .2rem;
     margin-left: .5rem;
-
+    width: 26%;
 }
 
 .button {
